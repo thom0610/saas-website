@@ -1,0 +1,28 @@
+html {
+  background-color: #192C47;
+}
+
+footer {
+  background-color: #C79028;
+}
+
+.about {
+  background-color: #fff;
+}
+
+.logo {
+  width: 100px;
+}
+
+.cards {
+  background-color: #C79028;
+}
+
+.login {
+  background-color: #C79028;
+  color: #fff;
+}
+
+nav ul li a{
+  color: #C79028;
+}
